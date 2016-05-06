@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JoCoWash]]></title>
+        <description><![CDATA[JoCoWash]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 19:23:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to my new website! I am so excited to finally share it with you! This site was designed specifically for my followers and information I feel you want to know! Here you will be able to browse news, pictures and videos. But, most importantly, I want this to be the place you turn regularly. </p>]]></description>
+            <link>undefinedwelcome-to-my-new-website-i-am-so-excited-to-finally-share/index.html</link>
+            <guid isPermaLink="false">dd52936a-bdba-4407-a73c-1b0dc7b3adda</guid>
+            <pubDate>Fri, 06 May 2016 19:23:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
